@@ -9,7 +9,8 @@
 </head>
 <body>
     <div class="container">
-        <h1 class="display-4 text-center text-info">Découverte de GIT HUB
+        <h1 class="display-4 text-center text-info">Découverte de GIT HUB><h1>
+        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Suscipit reiciendis sunt fugit laboriosam voluptatibus saepe ipsum repellendus excepturi ratione est ipsa, atque ab error fugiat doloremque explicabo eum incidunt corporis?</p>
     </div>
 </body>
 </html>                                      
